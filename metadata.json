@@ -1,0 +1,6 @@
+{
+  "name": "Héctor Montoya | High Performance Online Coaching",
+  "description": "Entrenamiento personal online de élite. Transformación física real, musculación y fuerza con Héctor Montoya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
